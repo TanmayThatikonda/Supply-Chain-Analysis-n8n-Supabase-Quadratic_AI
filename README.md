@@ -1,7 +1,6 @@
 # End-to-End Supply Chain Analytics Project
 
 ![Status](https://img.shields.io/badge/status-complete-success)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Tech Stack](https://img.shields.io/badge/Tech-n8n%2C%20PostgreSQL%2C%20Supabase%2C%20Quadratic-blue)
 
 This project demonstrates a complete, end-to-end analytics solution for monitoring and optimizing supply chain performance for a fictional FMCG company, Atlique Mart. It automates the entire data pipeline, from ingesting raw data received via email to generating actionable business insights using an AI-powered analytics tool. This system empowers proactive decision-making rather than reactive firefighting.
